@@ -1,0 +1,6 @@
+c:\users\lh_fi\documents\visual studio 2015\Projects\multibot-starter\multibot-starter\bin\Debug\multibot-starter.exe.config
+c:\users\lh_fi\documents\visual studio 2015\Projects\multibot-starter\multibot-starter\obj\Debug\multibot-starter.csprojResolveAssemblyReference.cache
+c:\users\lh_fi\documents\visual studio 2015\Projects\multibot-starter\multibot-starter\bin\Debug\multibot-starter.exe
+c:\users\lh_fi\documents\visual studio 2015\Projects\multibot-starter\multibot-starter\bin\Debug\multibot-starter.pdb
+c:\users\lh_fi\documents\visual studio 2015\Projects\multibot-starter\multibot-starter\obj\Debug\multibot-starter.exe
+c:\users\lh_fi\documents\visual studio 2015\Projects\multibot-starter\multibot-starter\obj\Debug\multibot-starter.pdb
