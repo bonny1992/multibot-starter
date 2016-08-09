@@ -65,8 +65,8 @@ namespace multibot_starter
 
         static void Main(string[] args)
         {
-            List<string> test = GetDirectoryPath();
-            List<Process> processlist = ProcessStarter(test);
+            List<string> pathlist = GetDirectoryPath();
+            List<Process> processlist = ProcessStarter(pathlist);
             Console.ReadKey();
             Console.CancelKeyPress += delegate {
                 foreach (Process process in processlist)
